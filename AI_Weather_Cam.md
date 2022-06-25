@@ -88,6 +88,6 @@ We used the [Weather Image Recognition Data Set](https://www.kaggle.com/datasets
 
 ## References
 
-1. Some text, [Link](https://ieee.nitk.ac.in)
-2. Some other text, [Link](https://ieee.nitk.ac.in)
-3. Some more text, [Link](https://ieee.nitk.ac.in)
+1. Weather Dataset, [Link](https://www.kaggle.com/jehanbhathena/weather-dataset)
+2. Deep Learning Specialization Course, [Link](https://www.coursera.org/specializations/deep-learning?=)
+3. Deep Lizard Playlist for CNNs, [Link](https://youtube.com/playlist?list=PLZbbT5o s 2xq7LwI2y8 Q tvuXZedL6tQU)
